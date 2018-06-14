@@ -102,7 +102,7 @@ figure.highlight .link {
   text-decoration: underline; }
 
 body, button, input, select, textarea {
-  font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Microsoft Yahei", "Wenquanyi Micro Hei", sans-se; }
 
 a.tag.article-tag {
   font-size: 0.9rem;
@@ -116,7 +116,7 @@ a.tag.article-tag {
     color: #3273dc; } }
 
 .navbar-main {
-  border-bottom: 1px solid #dbdbdb;
+  background-color: #383F86;
   transition: 0.1s ease-in; }
   .navbar-main .navbar-logo {
     font-size: 1.5rem;
@@ -124,7 +124,7 @@ a.tag.article-tag {
   .navbar-main .navbar-item {
     text-align: center; }
   .navbar-main a.navbar-item.is-active {
-    color: #3273dc; }
+    color: #fff; }
 
 .article + .article {
   padding-top: 2rem;
